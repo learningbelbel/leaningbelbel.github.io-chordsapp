@@ -1,0 +1,108 @@
+{
+    "songs": [
+        {
+            "name": "Suena el Shofar",
+            "verse": [
+                {
+                    "chords": "A# C     Remate: Dm-Dm-C-Dm",
+                    "lyric": "Suena el Shofar y tu pueblo es convocado"
+                },
+                {
+                    "chords": "                 A#      C          Dm",
+                    "lyric": "En la asamblea Santa se reúne a celebrar"
+                },
+                {
+                    "chords": "             A#        C              Dm-Dm-C-Dm",
+                    "lyric": "Dándote la gloria el honor y la alabanza"
+                },
+                {
+                    "chords": "             A#    C              Dm",
+                    "lyric": "Dándote la gloria,   dándote el honor."
+                },
+                {
+                    "chords": "             A#          C             Dm-Dm-C-Dm",
+                    "lyric": "Sea hecha tu voluntad como se hace en el cielo"
+                },
+                {
+                    "chords": "                 A#      C          Dm",
+                    "lyric": "Multitudes cantando y celebrando tu poder"
+                },
+                {
+                    "chords": "             A#          C               Dm-Dm-C-Dm",
+                    "lyric": "que tu gloria descienda cuando tu pueblo se encienda"
+                },
+                {
+                    "chords": "             A#    C              Dm",
+                    "lyric": "Dándote la gloria,   dándote el poder."
+                },
+                {
+                    "chords": "             A#    Gm              Asus A",
+                    "lyric": "Dándote la gloria,   dándote el poder."
+                }
+            ],
+            
+            "chorus": [
+                {
+                    "chords": "                     Dm   C  A#  A  ",
+                    "lyric": "Que descienda tu gloria //"
+                },
+                {
+                    "chords": "                     Dm  C A#  A         E",
+                    "lyric": "Que descienda tu gloria, que descienda aquí."
+                }
+            ]
+        },
+        {
+            "name": "Suena el Shofar",
+            "verse": [
+                {
+                    "chords": "A#          C                        Dm-Dm-C-Dm",
+                    "lyric": "Suena el Shofar y tu pueblo es convocado"
+                },
+                {
+                    "chords": "                 A#      C          Dm",
+                    "lyric": "En la asamblea Santa se reúne a celebrar"
+                },
+                {
+                    "chords": "             A#        C              Dm-Dm-C-Dm",
+                    "lyric": "Dándote la gloria el honor y la alabanza"
+                },
+                {
+                    "chords": "             A#    C              Dm",
+                    "lyric": "Dándote la gloria,   dándote el honor."
+                },
+                {
+                    "chords": "             A#          C             Dm-Dm-C-Dm",
+                    "lyric": "Sea hecha tu voluntad como se hace en el cielo"
+                },
+                {
+                    "chords": "                 A#      C          Dm",
+                    "lyric": "Multitudes cantando y celebrando tu poder"
+                },
+                {
+                    "chords": "             A#          C               Dm-Dm-C-Dm",
+                    "lyric": "que tu gloria descienda cuando tu pueblo se encienda"
+                },
+                {
+                    "chords": "             A#    C              Dm",
+                    "lyric": "Dándote la gloria,   dándote el poder."
+                },
+                {
+                    "chords": "             A#    Gm              Asus A",
+                    "lyric": "Dándote la gloria,   dándote el poder."
+                }
+            ],
+            
+            "chorus": [
+                {
+                    "chords": "                     Dm   C  A#  A  ",
+                    "lyric": "Que descienda tu gloria //"
+                },
+                {
+                    "chords": "                     Dm  C A#  A         E",
+                    "lyric": "Que descienda tu gloria, que descienda aquí."
+                }
+            ]
+        }
+    ]
+}

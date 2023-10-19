@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 350px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .container { 
+        width: 100%;
+        padding: 5%;
+    }
+    .acordion {
+        width: 100%;
+    }
+
+    .acordionTab {
+        width: 100%;
+        font-size: 12px;
+    }
+
+    .lyric-container{
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+}
